@@ -2,6 +2,10 @@
 
 2021~~ gogogo
 
+充实技术栈
+
+开始写日志
+
 <!--
 **Zhangshimin/zhangshimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
